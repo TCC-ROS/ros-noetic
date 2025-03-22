@@ -6,7 +6,7 @@ Follow the steps below to set up your working environment for this project.
 
 ## Requirements
 
-This guide assumes you're using **Ubuntu** installed **natively** (no virtual machines or WSL). The setup has only been tested and verified on local Ubuntu installations. The oldest Ubuntu version recommended is 20.04
+This guide assumes you're using **Ubuntu** installed **natively** (no virtual machines or WSL). The setup has only been tested and verified on local Ubuntu installations. The **minimum recommended version** of Ubuntu is **20.04.**
 
 ---
 
